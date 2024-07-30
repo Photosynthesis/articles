@@ -1,6 +1,7 @@
 The other day I read an essay by Wendell Berry. He said this:
 
-    "I want, and I think in my farming poems I have been consciously working toward, a poetry that would not be incompatible with barns and gardens and fields and woodlands. The mind, carrying such poetry into such places, would be freed and eased in the presence of what is there." - Wendell Berry, A Continuous Harmony, p.37
+
+> "I want, and I think in my farming poems I have been consciously working toward, a poetry that would not be incompatible with barns and gardens and fields and woodlands. The mind, carrying such poetry into such places, would be freed and eased in the presence of what is there." - Wendell Berry, A Continuous Harmony, p.37
 
 We might think — I have certainly thought — of poetry, or art, or music, as a thing that exists as the object of our experience; that we experience something while reading, or hearing, or viewing, and that something is of value.
 
