@@ -15,7 +15,7 @@ This post is the result. It is about six patterns of democracy that we can start
 
 Each of these patterns looks at a different facet of democratic process: _scale_, _content_, _context_, _shape_, _mechanisms_, and _quality_. They are not new. Each, in some way, is older than democracy itself. Once through them, we’ll look at how they can be combined to reinforce each other and move us toward a more just and beautiful world.
 
-# Scale: bringing democracy home
+## Scale: bringing democracy home
 
 Attention, resembling gravity, seems attracted to bigness. As media ownership has consolidated into fewer and fewer larger and larger corporations, the topics that take our attention have also [shifted toward distant, inaccessible political spectacles](https://fivethirtyeight.com/features/all-politics-is-national-because-all-media-is-national/) in which we are largely powerless, and away from decisions close to us where we can actually make a difference.
 
@@ -29,7 +29,7 @@ If frustrated with democratic impotence, we can keep reducing the scale until we
 
 Power tends to flow up hierarchy unless it is reclaimed from below. By creating a context for hyper-local democracy, we can give ourselves not just a personal voice, but a collective voice that other levels of power need to contend with.
 
-# Context: building democratic economies
+## Context: building democratic economies
 
 The conventional place of democracy is in making and enforcing rules, which is called government. But the entities that influence much of our lives are not governments, but corporations. And corporations are usually not democratic in any meaningful way.
 
@@ -41,7 +41,7 @@ The combination of co-ops and the rise of businesses as [platforms](https://plat
 
 Like in other contexts, economic democracy survives through use. We can inspect the economies around us—employers, suppliers of food, goods, media, medicine, ideas, services — through the lens of democratic agency, see what knobs and dials may exist there, and begin turning them.
 
-# Content: deciding about things, not just people
+## Content: deciding about things, not just people
 
 “Democracy” means rule by the people, but in most cases the scope of what’s called democracy is limited to choosing who will make the decisions for us. There is no practical reason why this has to be the case, especially in an era when we are all subject to ubiquitous, continuous digital opinion measurement anyway (in our interactions with social media, among other places).
 
@@ -53,7 +53,7 @@ Making decisions about issues rather than personalities can break up the deadloc
 
 For this to happen, such decisions need to be frequent and local enough that they don’t themselves become flashpoints for polarization. (Otherwise, one decision can become a proxy for multiple issues and grievances, as was arguably the case with Brexit and some other high-profile referenda.)
 
-# Shape: building horizontal federations
+## Shape: building horizontal federations
 
 National governments are generally triangular in shape. A single head of state sits at the top, numerous minions at the bottom, and below that even more numerous citizens. This is generally not a very responsive shape for a power structure. The formal mechanism of feedback is the election, when the very bottom of the pyramid, in theory, gets to decide about the very top.
 
@@ -67,7 +67,7 @@ Horizontal coalitions can start to reduce our dependence on states or corporatio
 
 One way to do this is to look at whatever movements or groups I am part of and ask: who is doing similar work or facing similar challenges elsewhere, and how could we help each other?
 
-# Mechanism: beyond the binary vote
+## Mechanism: beyond the binary vote
 
 As Pia Mancini has [eloquently pointed out](https://www.youtube.com/watch?v=NXfYNdapq3Q&list), our mechanisms of democratic engagement are horribly out of date. They were designed before computers, calculators, telephones, or automobiles, when logistical constraints made simplicity paramount, and elitism intentionally restricted the scope of democratic input.
 
@@ -85,7 +85,7 @@ Though the results of small experiments with these mechanisms are promising, mos
 
 As we introduce new layers of democracy, we can also introduce new mechanisms that give a more nuanced and intelligent way of combining many voices into one choice. The design of democracy ain’t over yet.
 
-# Quality: rediscovering how to listen
+## Quality: rediscovering how to listen
 
 Finally, let’s consider the quality of the deliberation that leads to, through, or from a collective decision. A vote is an extraordinarily low-bandwidth form of communication. Sometimes this is good (for example when independent input is needed on a simple decision), but if we want to build stronger democracy from the bottom up then we also need to (re)learn how to do civil, qualitative, inquiring dialogue that brings us into the perspectives of others.
 
@@ -93,7 +93,7 @@ Indra Adnan and [The Alternative UK](https://www.thealternative.org.uk/)‘s dia
 
 In small groups that know how to use it, _consent_ decision making is an efficient method of making collective decisions that avoids both the tedium of consensus and the polarization of majority votes. For day-to-day operations in many democratic organizations (particularly those practicing [Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)) it is the go-to method for making effective, inclusive decisions. In tandem with this, speaking in “rounds” gives time to be heard and time to listen — important in building trust in small democratic groups, and aiding the balanced input that’s been [experimentally shown to support](https://science.sciencemag.org/content/330/6004/686), or at least correlate with, improved collective intelligence.
 
-# Weaving the threads
+## Weaving the threads
 
 Those of you who have made it this far may rightly be asking: **_so what?_** If we do all these things, somehow, how will that prevent, for example, the election of another Donald Trump?
 
@@ -123,7 +123,7 @@ If we believe in democracy, we need to make it more than just an idea we act on 
 
 Democracy is contagious. It’s also delicate. The _R_ of democracy is entirely dependent on the enthusiasm and integrity with which it is done.
 
-# Reprieve
+## Reprieve
 
 On November 4th, when it appeared that Donald Trump may have, by some ghastly force, gained a second term in office, there was a gloomy mood in this house. One housemate donned a sloth-shaped “onesie” and brewed a large amount of tea. Another asked a Tarot deck how to resist blunt power.
 
