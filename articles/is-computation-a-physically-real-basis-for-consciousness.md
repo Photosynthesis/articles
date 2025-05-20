@@ -1,13 +1,10 @@
 ---
-
-
-
-
-title: Is Computation a Physically Real Basis for Consciousness?  
-author: Adam McKenty, Per Sundin  
+title: Is Computation a Physically Real Basis for Consciousness?
+author: Adam McKenty, Per Sundin
 bibliography: consciousness2.bib
 csl: apa.csl
 abstract: A common view in cognitive science holds that 1) consciousness is a product of substrate-independent (classical) computation; 2) the physical universe is causally closed and all phenomena, including the causes of consciousness, are in principle reducible to physical laws. In order for these two views to both be true, abstract computation must be reducible to physical laws. In this paper, we examine whether such a reduction of computation to physical laws is possible. Specifically, we look at the causal topology account of computation proposed by David Chalmers. We find that causal topology's dependence on counterfactuals and past and future states make it difficult to reduce it to physical laws, even in principle. This makes the causal topology account problematic as a means of rigorously connecting the computational view of consciousness with physicalism.
+post_date: 2018-04-02
 ---
 
 
