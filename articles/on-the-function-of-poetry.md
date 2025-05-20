@@ -1,3 +1,16 @@
+---
+title: On The Function of Poetry
+category: essay
+tags:
+  - hot-air
+  - art
+  - beauty
+  - truth
+  - goodness
+---
+
+
+
 The other day I read an essay by Wendell Berry. He said this:
 
 

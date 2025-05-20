@@ -1,7 +1,12 @@
 ---
 title: Why Is There No Verb For Sex?
 post_date: 2022-05-13
-taxonomy: "{category: essay}"
+taxonomy: 
+tags:
+  - sex
+  - words
+  - vocabulary
+category: essay
 ---
 
 
