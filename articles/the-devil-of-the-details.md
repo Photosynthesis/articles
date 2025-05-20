@@ -3,6 +3,13 @@
 title: The Devil of the Details
 post_date: 2022-01-01 18:00:00
 
+taxonomy:
+    category:
+        - essays
+    post_tag:
+        - evil
+        - good
+
 ---
 
 In general, I don't believe in evil. In my toolbox of concepts, this one sits among the old screws and rusty nails and twist-ties at the bottom, rarely used. 
